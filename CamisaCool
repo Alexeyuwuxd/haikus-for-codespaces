@@ -1,0 +1,28 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title> Playera cool </title>
+</head>
+<body>
+<h1> Mi playera </h1>
+<p> mi playera es un proyecto realizado en la materia de Matemáticas <br>, lo cual consiste en realizar una playera utilizando figuras geometrícas<br>, de tal manera que el logotipo de la playera sea  una figura geometríca de diseño libre </p>
+<h2> la información del contenido de sus medidas  de la playera realizada es la siguiente </h2>
+<ul>
+<li> El largo es de 72 cm </li>
+<li> El ancho 52 cm </li>
+<li> El logotipo es un triángulo equilatero y sus lados miden 14 cm </li>
+</ul> 
+<h3> Detalles, Colores, y texturas de la playera </h3>
+<ol>
+<li> la playera es de color Azul celeste </li>
+<li> la textura de la tela es lisa y suave </li> 
+<li> la playera es de manga corta </li>
+<li> El logotipo es un triángulo de color amarillo </li>
+<li> la textura del logotipo es satinada </li>
+<li>la talla es Mediana </li>
+<li>es una playera Unisex </li>
+</ol>
+<h4> El resultado final de la playera es el siguiente </h4>
+<img> https://drive.google.com/file/d/1trJZwvprdhyZRD9LmuesNzFsIUZ8DBXq/view?usp=drivesdk </img>
+</body>
+</html>
